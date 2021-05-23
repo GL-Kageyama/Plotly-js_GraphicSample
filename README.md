@@ -11,6 +11,10 @@ https://plotly.com/javascript/
 ![スクリーンショット 2021-05-23 15 51 14](https://user-images.githubusercontent.com/36861752/119251240-9f9f0780-bbe0-11eb-9671-b48a701c91ea.png)
 
 ## 3D Charts
+### 3D Scatter Plots
+#### 3D Scatter Plot
+![スクリーンショット 2021-05-23 16 15 44](https://user-images.githubusercontent.com/36861752/119251659-a4fd5180-bbe2-11eb-8477-edec6d6d3764.png)
+
 ### 3D Surface Plots
 #### Topographical 3D Surface Plot
 ![スクリーンショット 2021-05-23 15 57 13](https://user-images.githubusercontent.com/36861752/119251247-ad548d00-bbe0-11eb-84d4-6c50ceda13d7.png)

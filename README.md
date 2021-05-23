@@ -1,5 +1,7 @@
 # Plotly.js Graphic Output Sample
 
+https://plotly.com/javascript/
+
 ## Basic Charts
 ### Scatter Plots
 #### Line and Scatter Plot

@@ -10,11 +10,11 @@ https://plotly.com/javascript/
 ![スクリーンショット 2021-05-23 15 51 14](https://user-images.githubusercontent.com/36861752/119251240-9f9f0780-bbe0-11eb-9671-b48a701c91ea.png)
 ### Bubble Charts
 #### Marker Size and Color on Bubble Charts
-
+![スクリーンショット 2021-05-23 16 26 48](https://user-images.githubusercontent.com/36861752/119252058-02929d80-bbe5-11eb-9cad-ee79bd5add37.png)
 #### Bubble Size Scaling on Charts
-
+![スクリーンショット 2021-05-23 16 29 23](https://user-images.githubusercontent.com/36861752/119252063-0d4d3280-bbe5-11eb-9cb0-37177639dfc1.png)
 #### Marker Size, Color, and Symbol as an Array
-
+![スクリーンショット 2021-05-23 16 31 25](https://user-images.githubusercontent.com/36861752/119252078-21912f80-bbe5-11eb-8762-b5c54c0fbeb2.png)
 
 ## 3D Charts
 ### 3D Scatter Plots

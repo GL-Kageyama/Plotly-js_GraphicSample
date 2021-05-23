@@ -1,5 +1,5 @@
 # Plotly.js Graphic Output Sample
-
+![1200px-Plotly-logo-01-square](https://user-images.githubusercontent.com/36861752/119250881-0e2e9600-bbde-11eb-84ad-a1f6bd870f0f.png)
 https://plotly.com/javascript/
 
 ## Basic Charts

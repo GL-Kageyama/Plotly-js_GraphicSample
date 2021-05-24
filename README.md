@@ -10,11 +10,11 @@ https://plotly.com/javascript/
 ![スクリーンショット 2021-05-23 15 51 14](https://user-images.githubusercontent.com/36861752/119251240-9f9f0780-bbe0-11eb-9671-b48a701c91ea.png)
 ### Bar Charts
 #### Bar Chart with Rotated Labels
-
+![スクリーンショット 2021-05-24 20 34 56](https://user-images.githubusercontent.com/36861752/119342915-ae64e780-bcd0-11eb-99ac-a0740a837079.png)
 #### Colored and Styled Bar Chart
-
+![スクリーンショット 2021-05-24 20 36 50](https://user-images.githubusercontent.com/36861752/119342940-b9b81300-bcd0-11eb-8c72-d6cdaeee875d.png)
 #### Bar Chart with Relative Barmode
-
+![スクリーンショット 2021-05-24 20 38 46](https://user-images.githubusercontent.com/36861752/119342974-c472a800-bcd0-11eb-92aa-f4f70f1757a1.png)
 ### Bubble Charts
 #### Marker Size and Color on Bubble Charts
 ![スクリーンショット 2021-05-23 16 26 48](https://user-images.githubusercontent.com/36861752/119252058-02929d80-bbe5-11eb-9cad-ee79bd5add37.png)

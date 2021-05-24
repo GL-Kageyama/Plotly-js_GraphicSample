@@ -8,6 +8,13 @@ https://plotly.com/javascript/
 ![スクリーンショット 2021-05-23 11 34 33](https://user-images.githubusercontent.com/36861752/119246326-a9624400-bbbb-11eb-971b-36c5ebb494e9.png)
 #### Scatter Plot with a Color Dimension
 ![スクリーンショット 2021-05-23 15 51 14](https://user-images.githubusercontent.com/36861752/119251240-9f9f0780-bbe0-11eb-9671-b48a701c91ea.png)
+### Bar Charts
+#### Bar Chart with Rotated Labels
+
+#### Colored and Styled Bar Chart
+
+#### Bar Chart with Relative Barmode
+
 ### Bubble Charts
 #### Marker Size and Color on Bubble Charts
 ![スクリーンショット 2021-05-23 16 26 48](https://user-images.githubusercontent.com/36861752/119252058-02929d80-bbe5-11eb-9cad-ee79bd5add37.png)

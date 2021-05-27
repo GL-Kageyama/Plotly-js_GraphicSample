@@ -23,6 +23,15 @@
 #### Marker Size, Color, and Symbol as an Array
 ![スクリーンショット 2021-05-23 16 31 25](https://user-images.githubusercontent.com/36861752/119252078-21912f80-bbe5-11eb-8762-b5c54c0fbeb2.png)
 
+## Statistical Charts
+### Box Plots
+#### Grouped Box Plot
+![スクリーンショット 2021-05-27 19 59 18](https://user-images.githubusercontent.com/36861752/119815861-fd0bbf00-bf26-11eb-8479-2ded0ab42d50.png)
+#### Grouped Horizontal Box Plot
+![スクリーンショット 2021-05-27 20 00 59](https://user-images.githubusercontent.com/36861752/119815904-08f78100-bf27-11eb-9420-9f492135594e.png)
+#### Fully Styled Box Plot
+![スクリーンショット 2021-05-27 20 03 36](https://user-images.githubusercontent.com/36861752/119815937-13197f80-bf27-11eb-8148-ecf7fe090f1e.png)
+
 ## 3D Charts
 ### 3D Scatter Plots
 #### 3D Scatter Plot

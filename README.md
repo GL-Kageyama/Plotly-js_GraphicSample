@@ -17,11 +17,11 @@
 ![スクリーンショット 2021-05-24 20 38 46](https://user-images.githubusercontent.com/36861752/119342974-c472a800-bcd0-11eb-92aa-f4f70f1757a1.png)
 ### Pie Charts
 #### Pie Chart Subplots
-
+![スクリーンショット 2021-05-28 20 19 01](https://user-images.githubusercontent.com/36861752/119977144-01051300-bff3-11eb-9e32-de178b4f5164.png)
 #### Donut Chart
-
+![スクリーンショット 2021-05-28 20 20 30](https://user-images.githubusercontent.com/36861752/119977174-0bbfa800-bff3-11eb-85c2-6a08ce7575ce.png)
 #### Control Text Orientation Inside Pie ChartSectors
-
+![スクリーンショット 2021-05-28 20 22 01](https://user-images.githubusercontent.com/36861752/119977212-1712d380-bff3-11eb-9eba-f4b744f84955.png)
 ### Bubble Charts
 #### Marker Size and Color on Bubble Charts
 ![スクリーンショット 2021-05-23 16 26 48](https://user-images.githubusercontent.com/36861752/119252058-02929d80-bbe5-11eb-9cad-ee79bd5add37.png)

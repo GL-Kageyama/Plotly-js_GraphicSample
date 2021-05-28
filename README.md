@@ -15,6 +15,13 @@
 ![スクリーンショット 2021-05-24 20 36 50](https://user-images.githubusercontent.com/36861752/119342940-b9b81300-bcd0-11eb-8c72-d6cdaeee875d.png)
 #### Bar Chart with Relative Barmode
 ![スクリーンショット 2021-05-24 20 38 46](https://user-images.githubusercontent.com/36861752/119342974-c472a800-bcd0-11eb-92aa-f4f70f1757a1.png)
+### Pie Charts
+#### Pie Chart Subplots
+
+#### Donut Chart
+
+#### Control Text Orientation Inside Pie ChartSectors
+
 ### Bubble Charts
 #### Marker Size and Color on Bubble Charts
 ![スクリーンショット 2021-05-23 16 26 48](https://user-images.githubusercontent.com/36861752/119252058-02929d80-bbe5-11eb-9cad-ee79bd5add37.png)
